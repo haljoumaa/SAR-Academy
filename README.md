@@ -124,7 +124,7 @@ Please use the contact channels above. A formal inquiry form will be released wi
 
 ## Disclosure
 
-SAR Academy has **not received formal funding, institutional grants, or financial sponsorship** from any of the organizations mentioned. All engagements with Innovation Norway, HVL, and StartupLab Bergen have been informal, advisory, or academic in nature. The project remains fully independent and pre-commercial.
+SAR Academy has **not received formal funding, institutional grants, or financial sponsorship** from any of the organizations mentioned. All engagements with Innovation Norway, HVL, Norwegian Armed Forces, Police Departments and StartupLab Bergen have been informal, advisory, or academic in nature. The project remains fully independent and pre-commercial.
 
 ---
 
