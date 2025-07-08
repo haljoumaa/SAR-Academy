@@ -21,9 +21,9 @@ The core system leverages convolutional neural networks (CNNs) to analyze therma
 
 ## Project Genesis and Institutional Alignment
 
-The project began during Autumn 2024 as part of ING303: _Systems Thinking and Innovation for Engineers_. A concept pitch to Innovation Norway generated interest, followed by faculty engagement at HVL and an introduction to StartupLab Bergen.  
+The project began during Autumn 2024 as part of ING303: _Systems Thinking and Innovation for Engineers_. During a classroom pitch, an Innovation Norway advisor expressed preliminary interest, followed by faculty engagement at HVL and an introduction to StartupLab Bergen.  
 
-Regular strategy meetings were held with StartupLab leadership, and weekly updates were delivered during the pre-MVP development window.
+Regular meetings were held with StartupLab leadership, and weekly updates were delivered during the pre-MVP development window.
 
 ---
 
