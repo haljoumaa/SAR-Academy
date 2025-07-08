@@ -6,10 +6,7 @@
 **Date Created:** 09.04.2025  
 **Last Updated:** 08.07.2025  
 
-> _This report is a public technical summary. All sensitive data, source code, and internal documentation are under binding NDA and contributor agreement. Unauthorized disclosure is prohibited._
-> 
-> _SAR Academy has **not received formal funding, institutional grants, or financial sponsorship** from any of the organizations mentioned. All engagements with Innovation Norway, HVL, Norwegian Armed Forces, Police Departments, and StartupLab Bergen have been informal, advisory, or academic in nature. The project remains fully independent and pre-commercial._
-
+> ⚠️ **Disclosure**: This project is fully independent. No formal financial or institutional support has been granted by any of the entities mentioned. See [Disclosure](#disclosure) section below.
 
 ---
 
