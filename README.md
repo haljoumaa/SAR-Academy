@@ -65,7 +65,7 @@ No source code, datasets, or internal documents may be disclosed without written
 | Legal Structuring         | Dec 2024         | ✅ Completed |
 | UI/UX Architecture        | Dec–Apr 2025     | ⏸ Paused    |
 | Backend Prototyping       | Dec–Apr 2025     | ⏸ Paused    |
-| Project Paused            | Apr 2025         | ✅ Paused    |
+| Project Paused            | Apr 2025         | ⏸ Paused    |
 | Targeted Resumption       | Oct 2026         | 🔄 Planned   |
 
 ---
