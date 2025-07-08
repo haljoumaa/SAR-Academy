@@ -15,7 +15,7 @@
 
 SAR Academy is a pre-MVP, interdisciplinary R&D initiative focused on developing an AI-enhanced training platform for search-and-rescue (SAR) operations. Initiated within the context of ING303 at the Western Norway University of Applied Sciences, the project progressed through technical, legal, academic, institutional, and market validation phases. Development is currently paused (as of April 2025), with plans to resume in Q4 2026.
 
-The core system leverages convolutional neural networks (CNNs) to analyze thermal and GPS-based input data, supporting SAR dog handlers in optimizing field training. The platform has engaged informally with Innovation Norway, HVL, and StartupLab Bergen.
+The core system leverages convolutional neural networks (CNNs) to analyze thermal and GPS-based input data, supporting SAR dog handlers in optimizing field training.
 
 ---
 
