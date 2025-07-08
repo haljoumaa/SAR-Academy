@@ -21,9 +21,11 @@ The core system leverages convolutional neural networks (CNNs) to analyze therma
 
 ## Project Genesis and Institutional Alignment
 
-The project began during Autumn 2024 as part of ING303: _Systems Thinking and Innovation for Engineers_. During a classroom pitch, an Innovation Norway advisor expressed preliminary interest, followed by faculty engagement at HVL and an introduction to StartupLab Bergen.  
+The project began in Autumn 2024 as part of ING303: _Systems Thinking and Innovation for Engineers_ at the Western Norway University of Applied Sciences (HVL). During a classroom pitch, an advisor from Innovation Norway gave positive feedback and expressed initial interest. This helped initiate follow-up discussions with HVL faculty and staff, who supported the team in taking the project further.
 
-Regular meetings were held with StartupLab leadership, and weekly updates were delivered during the pre-MVP development window.
+The team was later introduced to StartupLab Bergen through HVL, establishing direct contact with their leadership and gaining access to mentorship and advisory resources.
+
+From the beginning, the team followed structured project management routines, including regular meetings and detailed progress tracking. During the pre-MVP phase, regular status reports were shared with relevant connections, covering technical updates, challenges, and key decisions. Ensuring transparency and clear communication throughout development.
 
 ---
 
@@ -45,11 +47,12 @@ No source code, datasets, or internal documents may be disclosed without written
 ### Data Ingestion
 - GPS log parser with time-aligned trajectory mapping for post-training analysis  
 - Thermal imaging input handler (format-agnostic; optimized for recorded sessions)
+- Integrated session logging for both real-time and post-training phases, with checkpointing to support model evaluation and iterative refinement
 
 ### Signal Processing
 - TensorFlow-based CNN model to classify sensor patterns  
 - Preprocessing pipeline: bounding-box isolation + multi-frame motion tracking  
-- Synthetic dataset generation simulating K9 motion and environmental noise
+- Synthetic dataset generation simulating dog motion and environmental noise
 
 ### User Interface
 - Figma-based UI, optimized for SAR field training environments  
@@ -62,12 +65,12 @@ No source code, datasets, or internal documents may be disclosed without written
 
 | Phase                      | Timeline         | Status     |
 |---------------------------|------------------|------------|
-| Course Project (ING303)   | Aug–Dec 2024     | ✅ Completed |
-| Legal Structuring         | Dec 2024         | ✅ Completed |
-| UI/UX Architecture        | Dec–Apr 2025     | ⏸ Paused    |
-| Backend Prototyping       | Dec–Apr 2025     | ⏸ Paused    |
-| Project Paused            | Apr 2025         | ⏸ Paused    |
-| Targeted Resumption       | Oct 2026         | 🔄 Planned   |
+| Course Project (ING303)   | Aug–Dec 2024     |  Completed |
+| Legal Structuring         | Dec 2024         |  Completed |
+| UI/UX Architecture        | Dec–Apr 2025     |  Paused    |
+| Backend Prototyping       | Dec–Apr 2025     |  Paused    |
+| Project Paused            | Apr 2025         |  Paused    |
+| Targeted Resumption       | Oct 2026         |  Planned   |
 
 ---
 
@@ -86,7 +89,7 @@ The team conducted comprehensive market validation:
 - Business model exploration (B2G and institutional licensing)  
 - Cost-efficiency analysis for SAR training deployment  
 
-A SAR practitioner on the team conducted 50+ interviews with public and private sector leaders.  
+A SAR practitioner on the team conducted 50+ interviews with public and private sector trainers, operators, and leaders.  
 Meetings with the Norwegian Armed Forces and Police stakeholders confirmed institutional interest and a willingness to stay informed on future iterations.
 
 > These findings confirmed strong demand for AI-supported SAR training, revealed inefficiencies in existing training workflows, and underscored the platform’s potential for national-scale institutional deployment.
