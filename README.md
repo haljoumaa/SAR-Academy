@@ -7,6 +7,7 @@
 **Last Updated:** 08.07.2025  
 
 > _This report is a public technical summary. All sensitive data, source code, and internal documentation are under binding NDA and contributor agreement. Unauthorized disclosure is prohibited._
+> 
 > _Disclosure: SAR Academy has **not received formal funding, institutional grants, or financial sponsorship** from any of the organizations mentioned. All engagements with Innovation Norway, HVL, and StartupLab Bergen have been informal, advisory, or academic in nature. The project remains fully independent and pre-commercial._
 
 
