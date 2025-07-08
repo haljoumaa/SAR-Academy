@@ -7,6 +7,10 @@
 **Last Updated:** 08.07.2025  
 
 > _This report is a public technical summary. All sensitive data, source code, and internal documentation are under binding NDA and contributor agreement. Unauthorized disclosure is prohibited._
+> ## Disclosure
+
+SAR Academy has **not received formal funding, institutional grants, or financial sponsorship** from any of the organizations mentioned. All engagements with Innovation Norway, HVL, and StartupLab Bergen have been informal, advisory, or academic in nature. The project remains fully independent and pre-commercial.
+
 
 ---
 
@@ -14,7 +18,7 @@
 
 SAR Academy is a pre-MVP, interdisciplinary R&D initiative focused on developing an AI-enhanced training platform for search-and-rescue (SAR) operations. Initiated within the context of ING303 at the Western Norway University of Applied Sciences, the project progressed through technical, legal, academic, institutional, and market validation phases. Development is currently paused (as of April 2025), with plans to resume in Q4 2026.
 
-The core system leverages convolutional neural networks (CNNs) to analyze thermal and GPS-based input data, supporting SAR dog handlers in optimizing field training. The platform has been supported by Innovation Norway, HVL, and StartupLab Bergen.
+The core system leverages convolutional neural networks (CNNs) to analyze thermal and GPS-based input data, supporting SAR dog handlers in optimizing field training. The platform has engaged informally with Innovation Norway, HVL, and StartupLab Bergen.
 
 ---
 
@@ -65,7 +69,7 @@ No source code, datasets, or internal documents may be disclosed without written
 | Legal Structuring         | Dec 2024         | ✅ Completed |
 | UI/UX Architecture        | Dec–Apr 2025     | ⏸ Paused    |
 | Backend Prototyping       | Dec–Apr 2025     | ⏸ Paused    |
-| Project Paused            | Apr 2025         | ⏸ Paused    |
+| Project Paused            | Apr 2025         | ✅ Paused    |
 | Targeted Resumption       | Oct 2026         | 🔄 Planned   |
 
 ---
@@ -116,6 +120,12 @@ SAR Academy commits to the following public deliverables:
 
 **For legal, institutional, or strategic collaboration:**  
 Please use the contact channels above. A formal inquiry form will be released with the Q1 2026 whitepaper.
+
+---
+
+## Disclosure
+
+SAR Academy has **not received formal funding, institutional grants, or financial sponsorship** from any of the organizations mentioned. All engagements with Innovation Norway, HVL, and StartupLab Bergen have been informal, advisory, or academic in nature. The project remains fully independent and pre-commercial.
 
 ---
 
