@@ -7,7 +7,8 @@
 **Last Updated:** 08.07.2025  
 
 > ⚠️ **Disclosure**: This project is fully independent. No formal financial or institutional support has been granted by any of the entities mentioned. See [Disclosure](#disclosure) section below.
-
+> 
+> _This report is a public technical summary. All sensitive data, source code, and internal documentation are under binding NDA and contributor agreement. Unauthorized disclosure is prohibited._
 ---
 
 ## Executive Summary
